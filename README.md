@@ -10,7 +10,9 @@ markdown
 ## 🔬 当前主攻：悬浮隧道数学内核标准
 
 正在构建 **SINOSFT** — 悬浮隧道（Submerged Floating Tunnel）的开源数学验证标准。
+```
 18m巨浪 → 300m防波堤(Kt<0.055) → 1m港内波 → 虚拟水锚 → 轨道平顺度 < 5mm
+```
 
 text
 
