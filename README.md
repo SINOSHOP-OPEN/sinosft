@@ -50,10 +50,8 @@ text
 
 ## 📡 联系与协作
 
-- 📧 标准制定：standards@sinoshop.org
-- 📧 平台合作：standards@sinoshop.org
-- 🔗 ArXiv 预印本：即将发布
-
+E-mail:standards@sinoshop.org
+  
 ---
 
 *"在最热的地方，设计最冷的未来。"*
