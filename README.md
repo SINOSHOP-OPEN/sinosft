@@ -48,7 +48,7 @@ text
 
 ## 📡 联系与协作
 
-- 📧 标准制定：standards@sinosft.org
+- 📧 标准制定：standards@sinoshop.org
 - 📧 平台合作：standards@sinoshop.org
 - 🔗 ArXiv 预印本：即将发布
 
