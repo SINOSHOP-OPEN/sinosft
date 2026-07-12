@@ -53,7 +53,15 @@ text
 E-mail:standards@sinoshop.org
   
 ---
+## 🌿 生态应用 (Built on SINOSFT)
 
-*"在最热的地方，设计最冷的未来。"*
-*"海生电、电养桥、桥造城、城惠民。"*
+基于 SINOSFT 定义的核心标准与物理架构，以下项目将理论应用于工程实践：
+
+- **[SINOSHIP/sinoshop-openice](https://gitee.com/SINOSHIP/sinoshop-openice) — 极地氢能全链条仿真平台**  
+  该平台完整遵循 SINOSFT 的物理基准（135m×27m，五层载荷抵消体系），为极地氢能系统提供高保真仿真与算法验证环境。
+
+- **[SINOSHIP/sinoship](https://gitee.com/SINOSHIP/sinoship) — 船舶设计与航运开源基础设施**  
+  面向船舶建模、仿真与优化的开源工具集，是 SINOSFT 架构在船舶工程领域的延伸应用。
+
+*"海生电、电养船、船搭桥、桥造城、城惠民、众生安。"*
 *"贞忠昭日月，惠民播春秋。"*
