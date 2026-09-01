@@ -1,63 +1,82 @@
-markdown
-# 🌊 SINOSFT — 悬浮隧道基础设施开源标准总入口
-
-> **SFT Mathematical Kernel & Infrastructure Standard**
-> 观天之道，执天之行，以数学为宪法，以代码为城墙。
-> 📍 中国·粤港澳大湾区·佛山
 
 ---
 
-## 🔬 当前主攻：悬浮隧道数学内核标准
+## ✅ Verified Constitutional Axioms
 
-正在构建 **SINOSFT** — 悬浮隧道（Submerged Floating Tunnel）的开源数学验证标准。
-```
-18m巨浪 → 300m防波堤(Kt<0.055) → 1m港内波 → 虚拟水锚 → 轨道平顺度 < 5mm
-```
-
-text
-
-### ✅ 已验证通过的宪法级公理
-
-| 公理 | 方法 | 状态 |
-|:---|:---|:---|
-| 静力平衡 | Lean 4 | PROVED |
-| 时滞鲁棒稳定性 | Z3 SMT | PROVED |
-| 防波堤透射系数 | Z3 SMT | PROVED |
-| 潮汐虹吸能量自持 | Z3 SMT | PROVED |
-| 全系统耦合稳定性 | Monte Carlo | PROVED |
+| Axiom | Method | Status |
+| :--- | :--- | :---: |
+| Static Equilibrium | Lean 4 | **PROVED** ✅ |
+| Time-Delay Robust Stability | Z3 SMT | **PROVED** ✅ |
+| Breakwater Transmission Coefficient | Z3 SMT | **PROVED** ✅ |
+| Tidal Siphon Energy Self-Sustainment | Z3 SMT | **PROVED** ✅ |
+| Full-System Coupled Stability | Monte Carlo | **PROVED** ✅ |
 
 ---
 
-## 📂 开源组织导航
+## 📂 Open Source Organization Navigation
 
-### 🏛️ SINOSFT — 悬浮隧道数学内核标准
-> 核心仓库：SINOSFT-Core-Math
-> L1 形式化公理层 + L2 鲁棒数值仿真层
-
-### 🌊 SINOSHOP-OPEN — 自浮式智能海洋城市运营平台
-> 平台集成、数字孪生、RWA/Web3、标准化模块
-
-### 🇨🇳 Gitee — 国内协作主站
-> SINOSHOP-OS 海洋空间智能生态母体
+| Organization | Description |
+| :--- | :--- |
+| 🏛️ **SINOSFT** | SFT Mathematical Kernel Standard — L1 Formal Axiom Layer + L2 Robust Numerical Simulation Layer |
+| 🌊 **SINOSHOP-OPEN** | Self-sustaining Intelligent Networked Oceanic Stable Habitat Operating Platform — Integration, Digital Twin, RWA/Web3, Standardized Modules |
+| 🇨🇳 **Gitee (China)** | Primary collaboration hub — [SINOSHOP-OS](https://gitee.com/sinoshop/sinoshop-os) |
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Technology Stack
 
-`Z3 SMT` `Lean 4` `Python` `Monte Carlo` `FFT` `Tube-MPC` `JONSWAP` `SFT`
+| Tool | Purpose |
+| :--- | :--- |
+| **Z3 SMT** | Theorem proving, constraint solving |
+| **Lean 4** | Formal verification |
+| **Python** | Simulation, data analysis |
+| **Monte Carlo** | Uncertainty quantification |
+| **FFT** | Frequency-domain analysis |
+| **Tube-MPC** | Model predictive control |
+| **JONSWAP** | Wave spectrum modeling |
+| **SFT** | Core mathematical kernel |
 
 ---
 
-## 📡 联系与协作
+## 📡 Contact & Collaboration
+
+- **Email**: standards@sinoshop.org
+- **Project Homepage**: [https://sinoshop-open.github.io/webpage/](https://sinoshop-open.github.io/webpage/)
+- **Chinese Primary Repository**: [https://gitee.com/sinoshop/sinosft](https://gitee.com/sinoshop/sinosft)
+
 ---
-🌊 **SINOSHOP** — 自浮式智能海洋城市运营平台  
-基于悬浮隧道（SFT）核心技术，构建自浮式·智能·网络化·海洋城市·运营平台。
 
-🏠 **项目主页**：[https://sinoshop-open.github.io/webpage/](https://sinoshop-open.github.io/webpage/)  
-📂 **开源仓库**：[https://gitee.com/sinoshop/sinoshop-os](https://gitee.com/sinoshop/sinoshop-os)  
-📧 **联系邮箱**：standards@sinoshop.org
+## 🌿 Ecosystem Projects (Built on SINOSFT)
 
-观天之道，执天之行，造福人民。  
-海生电、电养船、船搭桥、桥造城、城惠民。
-**简介**：SINOSHOP-OS 海洋空间智能生态母体 — 核心骨干架构 SLFS（悬浮隧道基础设施开源标准）V17.2-REV.2。观天之道，执天之行，造福人民。
+Based on the core standards and physical architecture defined by SINOSFT, the following projects apply the theory to engineering practice:
 
+| Project | Description |
+| :--- | :--- |
+| **SINOSHIP-OpenICE** | Polar hydrogen energy full-chain simulation platform — fully compliant with SINOSFT physical baseline (135m×27m, five-layer load cancellation) |
+| **SINOSHIP** | Ship design and shipping open-source infrastructure — modeling, simulation, and optimization toolset |
+
+---
+
+## 📬 Contact & Community
+
+🌊 **SINOSHOP** — Self-sustaining Intelligent Networked Oceanic Stable Habitat Operating Platform  
+Based on Submerged Floating Tunnel (SFT) core technology, building a self-floating, intelligent, networked marine city operating platform.
+
+- 🏠 **Project Homepage**: [https://sinoshop-open.github.io/webpage/](https://sinoshop-open.github.io/webpage/)
+- 📂 **Open Source Repository**: [https://gitee.com/sinoshop/sinoshop-os](https://gitee.com/sinoshop/sinoshop-os)
+- 🌐 **GitHub International Mirror**: [SINOSHOP-OPEN](https://github.com/SINOSHOP-OPEN)
+- 📧 **Contact Email**: standards@sinoshop.org
+
+---
+
+> 🌊 *Observe Nature's Order, Align with Ocean's Rhythm, Benefit All People.*  
+> 🌊 *Sea Generates Power → Power Sustains Ships → Ships Bridge Cities → Cities Benefit People → Aerospace for All → Harmony for All Beings.*  
+> ✨ *Loyalty shines through ages; benevolence spreads across seasons.*
+
+---
+
+🇨🇳 **中文版本**: [在 Gitee 上查看](https://gitee.com/sinoshop/sinosft)
+
+---
+
+*Last Updated: 2026-09-01 | SINOSFT Standard v1.0*
