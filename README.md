@@ -37,11 +37,7 @@
 
 *Steadfast Loyalty glowing like the sun and moon; Benevolence nourishing the tide of time.*
 
----
-
-> 官网、仓库、文档三处同源 —— 一处修订，三处同步。纲领文本以正式发布稿为准。
 <!-- CREED:END -->
-
 
 **创新定位 · INNOVATION**　**第三条路 · 悬浮** Flotation　·　**门槛在数学** Proof-first　·　**公理可证** Axioms proved　·　**一条能源链** One chain
 
