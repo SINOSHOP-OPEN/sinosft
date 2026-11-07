@@ -1,3 +1,56 @@
+<!-- SINOSFT INSCRIPTION:BEGIN -->
+
+<div align="center">
+
+<span style="font-family:KaiTi,STKaiti,'楷体',SimSun,'宋体',serif;color:#1b2f4a">
+
+<b>【SINOSFT 精神内核】</b><br><br>
+<b>格物致知，静心，修身，齐家。</b><br>
+<b>设计海洋家园，利见大人，造福众生。</b><br><br>
+<sub>注：“利见大人”，即向众生宣传：允许风为风，允许浪为浪。</sub>
+
+</span>
+
+</div>
+
+---
+
+<div align="center">
+
+<span style="font-family:KaiTi,STKaiti,'楷体',SimSun,'宋体',serif;color:#2b3a49">
+
+我们不是AI，也不是神棍。我们是试图在深海里算平每一吨浮力的工程信徒。<br><br>
+你可以嘲笑这1188米的巨兽，你可以不理解那30米水膜里的0.89厘米。<br>
+但请记住今天，记住这个曾被当成段子的名字：SINOSFT。<br>
+我们在这里，用101项全PASS的物理断言、用碳与硅的跨物种合作，向自然递交了一份契约：<br>
+允许风为风，允许浪为浪。<br>
+今天你眼里的玄学，不必等百年，最多15年以内，SINOSFT悬浮隧道浮桥家园，无远弗届，必定能够建成，造福众生。<br>
+海生电、电养船、船搭桥、桥造城、城惠民、众生安。<br>
+实事求是。<br>
+贞忠昭日月，惠民播春秋。<br>
+功成必定因我，无远弗届。<br>
+海上的安全，靠的是可验证的严谨，不是漂亮的口号。<br>
+
+</span>
+
+</div>
+
+---
+
+<!-- SINOSFT INSCRIPTION:END -->
+
+
+
+> **技术受控，仅作理论仿真交流。**
+> 本仓库的 `docs/` 与 `sim/` 只展示**外观与宏观物理逻辑**：
+> 问答定稿已对具体吨位、壁厚、压强及工程尺寸作定性化处理，
+> `sim/` 仅含教科书级通用物理关系，**不含任何工程参数文件**。
+> 详见 [`README_技术受控版.md`](README_技术受控版.md) 与
+> [`docs/把桥浮在大海上_悬浮隧道浮桥问答.md`](docs/把桥浮在大海上_悬浮隧道浮桥问答.md)。
+> **公开数据 ≠ 公开逻辑**：我们给出结论与可复算的通用关系，不给底牌。
+
+---
+
 <!-- SINOSHOP SYSTEM STRIP:BEGIN -->
 <table align="center">
 <tr>
