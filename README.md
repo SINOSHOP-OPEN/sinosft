@@ -4,6 +4,12 @@
 
 <!-- SINOSHOP GALAXY NAV:END -->
 
+<!-- SINOSHOP LANG SWITCH:BEGIN -->
+
+> 🌏 **Language** ｜ 简体中文 ｜ [English Version →](./README.en.md)
+
+<!-- SINOSHOP LANG SWITCH:END -->
+
 <!-- SINOSFT TITLE:BEGIN -->
 
 <div align="center">
