@@ -1,3 +1,9 @@
+<!-- SINOSHOP GALAXY NAV:BEGIN -->
+
+> 🌐 [Project Homepage](https://sinoshop-open.github.io/webpage/) ｜ 🚀 [SINOSFT Main Repository](https://github.com/SINOSHOP-OPEN/sinosft) ｜ 🌊 [SINOTIDE Algorithm Repository](https://github.com/SINOSHOP-OPEN/sinotide) ｜ ⚓ [SINOPORT Floating Port](https://github.com/SINOSHOP-OPEN/SinoPORT) ｜ 🧪 [Simulation & Verification Repository](https://gitee.com/sinoshop/Sinoport-public)
+
+<!-- SINOSHOP GALAXY NAV:END -->
+
 # SinoSFT — Sea-Crossing Floating Tunnel Bridge Home
 
 **A third path across the deep: flotation — neither buried in the seabed nor exposed at the surface.**
@@ -15,8 +21,11 @@
 |:--|:--|
 | SINOSFT Public Whitepaper (V22.0-s) | [Web](https://sinoshop-open.github.io/webpage/whitepaper.html) · [Gitee](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书.md) |
 | SinoTide — algorithm validation base | [Gitee](https://gitee.com/sinoshop/SinoTide) · [GitHub](https://github.com/SINOSHOP-OPEN/sinotide) |
+| SinoPORT — floating-port application scenario | [Gitee](https://gitee.com/sinoshop/SinoPORT) · [GitHub](https://github.com/SINOSHOP-OPEN/SinoPORT) |
 | Public simulation code | [sim/](sim/) |
 | Site map | [docs/SITE_MAP.md](docs/SITE_MAP.md) |
+
+> 🧪 **All underlying physics logic and verification scripts can be reproduced in one command in the [Simulation & Verification Repository (Sinoport-public)](https://gitee.com/sinoshop/Sinoport-public).**
 
 SinoTide is the underlying algorithm-validation base of this project; the main repository lives on
 [Gitee](https://gitee.com/sinoshop/SINOSFT). Code and figures are Apache-2.0.
