@@ -1,36 +1,22 @@
-# SINOSFT
+# SinoSFT — Sea-Crossing Floating Tunnel Bridge Home
 
-#### Description
-🌊 SINOSFT — 悬浮隧道基础设施开源标准 | SFT Mathematical Kernel & Infrastructure Standard
+**A third path across the deep: flotation — neither buried in the seabed nor exposed at the surface.**
 
-#### Software Architecture
-Software architecture description
+> **Seek truth from facts — with it, every barrier yields and every undertaking prevails.**
 
-#### Installation
+[![Assertions](https://img.shields.io/badge/physical_assertions-247_ALL_PASS_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
+[![Data IP](https://img.shields.io/badge/national_data_IP-17_filed_·_1_in_publicity-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
+[![Span](https://img.shields.io/badge/floating_base-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
+[![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Key Entries
 
-#### Instructions
+| Document | Link |
+|:--|:--|
+| SINOSFT Public Whitepaper (V22.0-s) | [Web](https://sinoshop-open.github.io/webpage/whitepaper.html) · [Gitee](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书.md) |
+| SinoTide — algorithm validation base | [Gitee](https://gitee.com/sinoshop/SinoTide) · [GitHub](https://github.com/SINOSHOP-OPEN/sinotide) |
+| Public simulation code | [sim/](sim/) |
+| Site map | [docs/SITE_MAP.md](docs/SITE_MAP.md) |
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+SinoTide is the underlying algorithm-validation base of this project; the main repository lives on
+[Gitee](https://gitee.com/sinoshop/SINOSFT). Code and figures are Apache-2.0.

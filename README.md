@@ -1,19 +1,73 @@
+<!-- SINOSFT TITLE:BEGIN -->
+
+<div align="center">
+
+# SinoSFT跨海悬浮隧道浮桥家园
+
+**跨海悬浮隧道浮桥 · 以数学为宪法，以代码为城墙**
+
+</div>
+
+<!-- SINOSFT TITLE:END -->
+
 <!-- SINOSFT INSCRIPTION:BEGIN -->
 
 <div align="center">
 
-<span style="font-family:KaiTi,STKaiti,'楷体',SimSun,'宋体',serif;color:#1b2f4a">
+<span style="font-family:KaiTi,STKaiti,'楷体',SimSun,'宋体',serif;color:#1b2f4a;font-size:110%">
 
-<b>【SINOSFT 精神内核】</b><br><br>
-<b>格物致知，静心，修身，齐家。</b><br>
-<b>设计海洋家园，利见大人，造福众生。</b><br><br>
-<sub>注：“利见大人”，即向众生宣传：允许风为风，允许浪为浪。</sub>
+<b>格物致知、静心、修身、齐家。设计海洋家园，利见大人，造福众生。</b>
 
 </span>
 
 </div>
 
+<!-- SINOSFT INSCRIPTION:END -->
+
+<!-- SINOSFT DECLARATION:BEGIN -->
+
+<div align="center">
+
+<b><span style="font-size:118%;color:#1b2f4a">实事求是，可以所向披靡，无往不胜。</span></b><br>
+<sub>Seek truth from facts — with it, every barrier yields and every undertaking prevails.</sub>
+
+</div>
+
 ---
+
+<div align="center">
+
+[![物理断言](https://img.shields.io/badge/物理断言-247_全_PASS_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
+[![数据知识产权](https://img.shields.io/badge/数据知识产权-17_项已受理_·_1_项公示中-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
+[![跨海悬浮底座](https://img.shields.io/badge/跨海悬浮交通底座-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/blob/master/figures/fig01_cross_section_concept.png)
+[![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
+[![数学内核](https://img.shields.io/badge/数学内核-Lean_4_+_Z3_SMT-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
+
+</div>
+
+<br>
+### 硬核成果 · Hard Results
+
+| 成果 | 口径 |
+|:--|:--|
+| 物理断言 | **247 项全 PASS，判定脚本退出码 EXIT = 0** |
+| 国家数据知识产权 | **17 项已受理，其中 1 项进入公示期** |
+| 跨海悬浮交通底座 | **断面总宽 1,188 m** |
+
+### 🧭 首屏直达 · Key Entries
+
+| 关键文档 | 入口 |
+|:--|:--|
+| 《SINOSFT 技术白皮书》公开版 V22.0-s | [深蓝画卷（网页版）](https://sinoshop-open.github.io/webpage/whitepaper.html) ｜ [Gitee 文本](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书.md) ｜ [一页摘要](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书摘要.md) |
+| SINOTIDE 仿真代码 —— 定深悬浮与取能的算法验证，详见 [SINOTIDE 仓库](https://github.com/SINOSHOP-OPEN/sinotide) | [Gitee](https://gitee.com/sinoshop/SinoTide) ｜ [GitHub](https://github.com/SINOSHOP-OPEN/sinotide) |
+| 《致众生和谐书》 | [在线直读](https://sinoshop-open.github.io/webpage/harmony.html) |
+| 公开仿真脚本（sim/） | [sim/force_balance.py](sim/force_balance.py) ｜ [sim/pascal_membrane.py](sim/pascal_membrane.py) ｜ [sim/verify_logic.py](sim/verify_logic.py) |
+| 站内系列地图 · 一次抵达，全域可达 | [docs/SITE_MAP.md](docs/SITE_MAP.md) |
+
+
+<!-- SINOSFT DECLARATION:END -->
+
+<!-- SINOSFT MANIFESTO:BEGIN -->
 
 <div align="center">
 
@@ -35,18 +89,9 @@
 
 </div>
 
----
+<sub>注：“利见大人”，即向众生宣传：允许风为风，允许浪为浪。</sub>
 
-<!-- SINOSFT INSCRIPTION:END -->
-
-<!-- SINOSFT DECLARATION:BEGIN -->
-
-<div align="center">
-
-<b><span style="font-size:118%;color:#1b2f4a">实事求是，可以所向披靡，无往不胜。</span></b><br>
-<sub>Seek truth from facts — with it, every barrier yields and every undertaking prevails.</sub>
-
-</div>
+<!-- SINOSFT MANIFESTO:END -->
 
 ---
 
@@ -75,7 +120,7 @@ SINOSFT 不仅是一个开源项目，更是一场精神与物理的“双向配
 
 我们开源代码，更传递信念。愿你在开源共建中，找到自己的根，不再迷茫，无远弗届。
 
-<!-- SINOSFT DECLARATION:END -->
+---
 
 <!-- SINOSFT BREAKTHROUGH MD:BEGIN -->
 
@@ -192,9 +237,7 @@ SINOSHOP-SinoSFT-SinoPORT 体系提出的一种探索：针对个体化技术资
 
 ![晨雾中的跨海大桥 · 长虹卧波](media/seascape/sft_bridge_dawn.jpg)
 
-# SinoSFT —— 共建共享，海洋家园，众志成城。
 
-### 跨海悬浮隧道浮桥 · 以数学为宪法，以代码为城墙
 
 > **观天之道，执天之行。以术载道，造福众生。**
 
