@@ -1,3 +1,9 @@
+<!-- SINOSHOP GALAXY NAV:BEGIN -->
+
+> 🌐 [项目官网](https://sinoshop-open.github.io/webpage/) ｜ 🚀 [SINOSFT 主仓](https://github.com/SINOSHOP-OPEN/sinosft) ｜ 🌊 [SINOTIDE 算法仓](https://github.com/SINOSHOP-OPEN/sinotide) ｜ ⚓ [SINOPORT 悬浮港](https://github.com/SINOSHOP-OPEN/SinoPORT) ｜ 🧪 [代码仿真验证仓](https://gitee.com/sinoshop/Sinoport-public)
+
+<!-- SINOSHOP GALAXY NAV:END -->
+
 <!-- SINOSFT TITLE:BEGIN -->
 
 <div align="center">
@@ -55,12 +61,15 @@
 | 国家数据知识产权 | **17 项已受理，其中 1 项进入公示期** |
 | 跨海悬浮交通底座 | **断面总宽 1,188 m** |
 
+> 🧪 **所有底层物理逻辑与验证脚本，请在 [代码仿真验证仓 Sinoport-public](https://gitee.com/sinoshop/Sinoport-public) 中一键复现。**
+
 ### 🧭 首屏直达 · Key Entries
 
 | 关键文档 | 入口 |
 |:--|:--|
 | 《SINOSFT 技术白皮书》公开版 V22.0-s | [深蓝画卷（网页版）](https://sinoshop-open.github.io/webpage/whitepaper.html) ｜ [Gitee 文本](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书.md) ｜ [一页摘要](https://gitee.com/sinoshop/SINOSFT/blob/master/docs/SINOSFT_公开版白皮书摘要.md) |
 | SINOTIDE 仿真代码 —— 定深悬浮与取能的算法验证，详见 [SINOTIDE 仓库](https://github.com/SINOSHOP-OPEN/sinotide) | [Gitee](https://gitee.com/sinoshop/SinoTide) ｜ [GitHub](https://github.com/SINOSHOP-OPEN/sinotide) |
+| SINOPORT 悬浮港 —— 悬浮港的受力底座，详见 [SINOPORT 仓库](https://github.com/SINOSHOP-OPEN/SinoPORT) | [Gitee](https://gitee.com/sinoshop/SinoPORT) ｜ [GitHub](https://github.com/SINOSHOP-OPEN/SinoPORT) |
 | 《致众生和谐书》 | [在线直读](https://sinoshop-open.github.io/webpage/harmony.html) |
 | 公开仿真脚本（sim/） | [sim/force_balance.py](sim/force_balance.py) ｜ [sim/pascal_membrane.py](sim/pascal_membrane.py) ｜ [sim/verify_logic.py](sim/verify_logic.py) |
 | 站内系列地图 · 一次抵达，全域可达 | [docs/SITE_MAP.md](docs/SITE_MAP.md) |
