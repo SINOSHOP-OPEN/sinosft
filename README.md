@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![物理断言](https://img.shields.io/badge/物理断言-512_项可复现_·_15_支脚本_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
+[![物理断言](https://img.shields.io/badge/物理断言验证包-512_项_·_一键复现_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
 [![数据知识产权](https://img.shields.io/badge/数据知识产权-17_项已受理_·_1_项公示中-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
 [![跨海悬浮底座](https://img.shields.io/badge/跨海悬浮交通底座-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/blob/master/figures/fig01_cross_section_concept.png)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
@@ -63,7 +63,7 @@
 
 | 成果 | 口径 |
 |:--|:--|
-| 物理断言 | **512 项可复现物理断言（15 支开源脚本，判定脚本退出码 EXIT=0）** |
+| 物理断言 | **512 项物理断言验证包（一键复现，EXIT=0）** |
 | 国家数据知识产权 | **17 项已受理，其中 1 项进入公示期** |
 | 跨海悬浮交通底座 | **断面总宽 1,188 m** |
 
@@ -115,7 +115,7 @@
 
 <b>【SINOSFT 开源与数字确权理念】</b><br><br>
 技术圈藏龙卧虎，但常因眼前利益而捆缚手脚。SINOSFT 相信，开源不是无偿的奉献，而是为了打破壁垒；确权不是闭门造车，而是为了护航创新。<br><br>
-我们的宏观物理框架与底层逻辑向全人类开源（遵循 Apache-2.0）；同时，包含 512 项可复现物理断言的开源验证数据集，已依法启动国家知识产权与数据资产登记。<br><br>
+我们的宏观物理框架与底层逻辑向全人类开源（遵循 Apache-2.0）；同时，包含 512 项物理断言验证包（一键复现，EXIT=0） 的开源验证数据集，已依法启动国家知识产权与数据资产登记。<br><br>
 我们拥抱开源，也坚决捍卫创新的尊严。
 
 </td></tr></table>
@@ -150,7 +150,7 @@ SINOSFT 不仅是一个开源项目，更是一场精神与物理的“双向配
 面对重载交通带来的动态冲击，浮式结构的吃水与线形控制，一直是工程上共同的难点。SINOSFT 采用自主的受力自适应调节架构，在设定工况包络内有效抑制路面微动，为高平顺度的轨道基座提供一种可能。<br><br>
 <b>02 · 浮体高度恒定消浪发电技术</b><br>
 浮式结构的位形保持与稳定能量捕获，同样是海上工程长期关注的课题。SINOSFT 以恒浮力贴紧的设计取向，在极限工况下有效抑制位形漂移，为潮汐能的平稳捕获提供一个相对稳定的平台。<br><br>
-<b>这不是科幻。它建立在 512 项可复现物理断言之上，是一份来自中国的、可被独立复核的方案。</b><br>
+<b>这不是科幻。它建立在 512 项物理断言验证包（一键复现，EXIT=0） 之上，是一份来自中国的、可被独立复核的方案。</b><br>
 在极端复合工况上，我们依然在通过开源仿真不断优化——知之为知之，不知为不知。
 
 </td></tr></table>
