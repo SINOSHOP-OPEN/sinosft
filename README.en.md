@@ -16,7 +16,7 @@
 
 > **Seek truth from facts — with it, every barrier yields and every undertaking prevails.**
 
-[![Assertions](https://img.shields.io/badge/physical_assertions-247_ALL_PASS_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
+[![Assertions](https://img.shields.io/badge/physical_assertions-512_REPRODUCIBLE_·_15_SCRIPTS_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
 [![Data IP](https://img.shields.io/badge/national_data_IP-17_filed_·_1_in_publicity-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
 [![Span](https://img.shields.io/badge/floating_base-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)

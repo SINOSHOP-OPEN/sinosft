@@ -9,7 +9,7 @@
 
 | 站点 | 定位 | Gitee | GitHub |
 |:--|:--|:--|:--|
-| **SinoSFT 跨海悬浮隧道浮桥家园**（本体系主仓） | 跨海悬浮交通底座 · 1,188 m 断面 · 247 项物理断言全 PASS | [sinoshop/SINOSFT](https://gitee.com/sinoshop/SINOSFT) | [SINOSHOP-OPEN/sinosft](https://github.com/SINOSHOP-OPEN/sinosft) |
+| **SinoSFT 跨海悬浮隧道浮桥家园**（本体系主仓） | 跨海悬浮交通底座 · 1,188 m 断面 · 512 项可复现物理断言（15 支开源脚本，判定脚本退出码 EXIT=0） | [sinoshop/SINOSFT](https://gitee.com/sinoshop/SINOSFT) | [SINOSHOP-OPEN/sinosft](https://github.com/SINOSHOP-OPEN/sinosft) |
 | **SinoTide** | SinoSFT 的底层算法验证基座 · 定深悬浮与取能 · 钱塘江潮汐实测口径 | [sinoshop/SinoTide](https://gitee.com/sinoshop/SinoTide) | [SINOSHOP-OPEN/sinotide](https://github.com/SINOSHOP-OPEN/sinotide) |
 | **SinoPORT 悬浮港** | 无桩基刚体悬浮港 · 重载稳态 | [sinoshop/SinoPORT](https://gitee.com/sinoshop/SinoPORT) | [SINOSHOP-OPEN/SinoPORT](https://github.com/SINOSHOP-OPEN/SinoPORT) |
 | **SINOSHOP-OS 海洋城市** | 可移动生态人居社区 | [sinoshop/sinoshop-os](https://gitee.com/sinoshop/sinoshop-os) | — |
