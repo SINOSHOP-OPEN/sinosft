@@ -21,6 +21,8 @@
 [![Span](https://img.shields.io/badge/floating_base-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
 
+**Authoritative wording (Chinese, verbatim): 512 项物理断言验证包（一键复现，EXIT=0）** — English rendering: *512-assertion physical verification package (one-click reproducible, EXIT=0)*. The count is determined by the actual scripts in `physics-assertions-512/`.
+
 ## Key Entries
 
 | Document | Link |
