@@ -50,7 +50,8 @@
 <div align="center">
 
 [![物理断言](https://img.shields.io/badge/物理断言验证包-512_项_·_一键复现_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
-[![数据知识产权](https://img.shields.io/badge/数据知识产权-17_项已受理_·_1_项公示中-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
+[![数据知识产权](https://img.shields.io/badge/数据知识产权-已发证_1_项_·_平台在册_19_条-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
+[![登记证书](https://img.shields.io/badge/📜_数据知识产权已登记-SZ2026110011630.1-1b2f4a?style=flat-square)](assets/Data_IP_Certificate_SZ2026110011630.1.pdf)
 [![跨海悬浮底座](https://img.shields.io/badge/跨海悬浮交通底座-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/blob/master/figures/fig01_cross_section_concept.png)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
 [![数学内核](https://img.shields.io/badge/数学内核-Lean_4_+_Z3_SMT-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
@@ -64,7 +65,7 @@
 | 成果 | 口径 |
 |:--|:--|
 | 物理断言 | **512 项物理断言验证包（一键复现，EXIT=0）** |
-| 国家数据知识产权 | **17 项已受理，其中 1 项进入公示期** |
+| 数据知识产权登记 | **已发证 1 项（`SZ2026110011630.1`，证书编号 `20260944000011630`）；平台在册 19 条** |
 | 跨海悬浮交通底座 | **断面总宽 1,188 m** |
 
 > 🧪 **所有底层物理逻辑与验证脚本，请在 [代码仿真验证仓 Sinoport-public](https://gitee.com/sinoshop/Sinoport-public) 中一键复现。**
@@ -115,7 +116,7 @@
 
 <b>【SINOSFT 开源与数字确权理念】</b><br><br>
 技术圈藏龙卧虎，但常因眼前利益而捆缚手脚。SINOSFT 相信，开源不是无偿的奉献，而是为了打破壁垒；确权不是闭门造车，而是为了护航创新。<br><br>
-我们的宏观物理框架与底层逻辑向全人类开源（遵循 Apache-2.0）；同时，包含 512 项物理断言验证包（一键复现，EXIT=0） 的开源验证数据集，已依法启动国家知识产权与数据资产登记。<br><br>
+我们的宏观物理框架与底层逻辑向全人类开源（遵循 Apache-2.0）；同时，包含 512 项物理断言验证包（一键复现，EXIT=0） 的开源验证数据集，已在广东省数据知识产权登记平台完成登记（登记号 SZ2026110011630.1，首项已发证）。<br><br>
 我们拥抱开源，也坚决捍卫创新的尊严。
 
 </td></tr></table>
@@ -174,7 +175,7 @@ SINOSFT 不仅是一个开源项目，更是一场精神与物理的“双向配
 面向列车等重载动态载荷，在设定工况包络内有效抑制对悬浮轨道的形变影响，保持运行平顺；具体效果，仍以独立复核与实测为准。<br><br>
 
 <b>03 · INSTITUTION　开源技术知识贡献的数字存证模式</b><br>
-SINOSHOP-SinoSFT-SinoPORT 体系提出的一种探索：针对个体化技术资源难以形成合力的现实，将技术资产以哈希方式存证，并预备在符合有效法律法规的前提下引入 RWA 区块链技术。期望为工程收益的长期分享提供一种路径，让每一份开源贡献都有独立、可追溯的数字资产档案。相关国家数据知识产权与数据资产登记已依法启动、材料已提交，尚在审核。<br><br>
+SINOSHOP-SinoSFT-SinoPORT 体系提出的一种探索：针对个体化技术资源难以形成合力的现实，将技术资产以哈希方式存证，并预备在符合有效法律法规的前提下引入 RWA 区块链技术。期望为工程收益的长期分享提供一种路径，让每一份开源贡献都有独立、可追溯的数字资产档案。相关数据知识产权登记由广东省数据知识产权登记平台受理，首项已发证，其余在审。<br><br>
 
 <b>物理技术与制度创新，并列而立。</b>本区只呈现机制层名称与结论数字；判据阈值、算法与实现细节归位开源验证代码库，不在公开宣传面。
 
