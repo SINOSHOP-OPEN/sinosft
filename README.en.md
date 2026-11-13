@@ -18,7 +18,7 @@
 
 [![Assertions](https://img.shields.io/badge/assertion_package-512_·_ONE--CLICK_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
 [![Data IP](https://img.shields.io/badge/data_IP-1_certificate_issued_·_19_filings_on_record-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
-[![Registration](https://img.shields.io/badge/📜_Data_IP_registered-SZ2026110011630.1-1b2f4a?style=flat-square)](assets/Data_IP_Certificate_SZ2026110011630.1.pdf)
+[![Registration](https://img.shields.io/badge/Data_IP_registered-SZ2026110011630.1-1b2f4a?style=flat-square&logo=readme&logoColor=white)](assets/Data_IP_Certificate_SZ2026110011630.1.pdf)
 [![Span](https://img.shields.io/badge/floating_base-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
 

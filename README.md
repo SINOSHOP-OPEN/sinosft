@@ -51,7 +51,7 @@
 
 [![物理断言](https://img.shields.io/badge/物理断言验证包-512_项_·_一键复现_·_EXIT%3D0-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/tree/master/verify)
 [![数据知识产权](https://img.shields.io/badge/数据知识产权-已发证_1_项_·_平台在册_19_条-8a6d3b?style=flat-square)](https://sinoshop-open.github.io/webpage/docs/datasets/index.html)
-[![登记证书](https://img.shields.io/badge/📜_数据知识产权已登记-SZ2026110011630.1-1b2f4a?style=flat-square)](assets/Data_IP_Certificate_SZ2026110011630.1.pdf)
+[![登记证书](https://img.shields.io/badge/数据知识产权已登记-SZ2026110011630.1-1b2f4a?style=flat-square&logo=readme&logoColor=white)](assets/Data_IP_Certificate_SZ2026110011630.1.pdf)
 [![跨海悬浮底座](https://img.shields.io/badge/跨海悬浮交通底座-1%2C188_m-2ea88c?style=flat-square)](https://gitee.com/sinoshop/SINOSFT/blob/master/figures/fig01_cross_section_concept.png)
 [![License](https://img.shields.io/badge/License-Apache--2.0-2ea88c?style=flat-square)](LICENSE)
 [![数学内核](https://img.shields.io/badge/数学内核-Lean_4_+_Z3_SMT-1b2f4a?style=flat-square)](https://gitee.com/sinoshop/SINOSFT)
