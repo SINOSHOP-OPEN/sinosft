@@ -1,0 +1,58 @@
+{
+  "数据集": "SINOSHOP-SinoSFT悬浮隧道浮桥海洋家园工程能源决策型技术数据集",
+  "生成时间": "2026-11-22T21:13:36",
+  "引擎": "energy_sim.py",
+  "复现命令": "python energy_sim.py",
+  "模型数": 5,
+  "模型清单": [
+    "net_available_power_valid",
+    "stability_constraint_pass",
+    "fire_safety_pass",
+    "source_classification_valid",
+    "five_constraint_integration_pass"
+  ],
+  "枚举维度": {
+    "sea_state": 3,
+    "float_reference": 3,
+    "tidal_segment": 2,
+    "cavitation": 2,
+    "wave_grade": 2,
+    "attenuation": 2,
+    "storage_isolation": 2,
+    "ballast_comp": 2,
+    "h2_interlock": 2,
+    "deep_sea_grade": 2,
+    "vibration_grade": 2,
+    "load_cancel": 2,
+    "thermal_store": 2
+  },
+  "矩阵总数": 18432,
+  "综合通过": 1,
+  "受限": 18431,
+  "判定说明": "瓶颈不在装机清单而在五约束与能源分层；任一硬规则违规即整案受限，故仅全档位理想组合通过。",
+  "各模型通过数": {
+    "net_available_power_valid": 128,
+    "stability_constraint_pass": 2304,
+    "fire_safety_pass": 4608,
+    "source_classification_valid": 1536,
+    "five_constraint_integration_pass": 1
+  },
+  "规则锚点命中计数": {
+    "R-SFT-EN-01": 18432,
+    "R-SFT-EN-02": 18432,
+    "R-SFT-EN-03": 18432,
+    "R-SFT-EN-04": 18432,
+    "R-SFT-EN-05": 18432,
+    "R-SFT-EN-06": 18432,
+    "R-SFT-EN-07": 18432,
+    "R-SFT-EN-08": 18432,
+    "R-SFT-EN-09": 18432,
+    "回收收益侵占控制目标": 9216,
+    "恒定浮体基准未闭环": 12288,
+    "消防水可用性风险": 9216,
+    "研发项越级计入基荷": 9216,
+    "设计值口径-不得计入可靠容量": 6144
+  },
+  "负注入断言": "13/13 CAUGHT",
+  "边界": "档位化工程近似，用于判定逻辑可复现性验证；不含可制造参数，不作为设计与验收依据。"
+}

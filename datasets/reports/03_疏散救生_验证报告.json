@@ -1,0 +1,53 @@
+{
+  "数据集": "SINOSFT悬浮隧道3分钟每公里3000人海面浮升疏散救生决策型技术数据集",
+  "生成时间": "2026-11-22T20:08:49",
+  "引擎": "evac_sim.py",
+  "复现命令": "python evac_sim.py",
+  "模型数": 5,
+  "模型清单": [
+    "evac_3min_km3000_valid",
+    "stair_no_block_flag",
+    "cabin_passive_buoy_valid",
+    "channel_seal_recovery_valid",
+    "full_scenario_self_rescue_valid"
+  ],
+  "枚举维度": {
+    "scenario": 8,
+    "stair_width": 2,
+    "cabin_count": 2,
+    "buoyancy_mode": 2,
+    "seal_mode": 2,
+    "timing_state": 3,
+    "interconnect": 2,
+    "geometry": 2,
+    "capacity": 2,
+    "breathing": 2
+  },
+  "矩阵总数": 6144,
+  "综合通过": 15,
+  "受限": 6129,
+  "判定说明": "静态容量远大于设计目标，风险集中于动态时序与失效链路；受限占比高属硬规则压力测试口径。",
+  "各模型通过数": {
+    "evac_3min_km3000_valid": 256,
+    "stair_no_block_flag": 1536,
+    "cabin_passive_buoy_valid": 1536,
+    "channel_seal_recovery_valid": 3072,
+    "full_scenario_self_rescue_valid": 15
+  },
+  "规则锚点命中计数": {
+    "R-SFT-EVAC-01": 6144,
+    "R-SFT-EVAC-02": 6144,
+    "R-SFT-EVAC-03": 6144,
+    "R-SFT-EVAC-03-呼吸独立": 768,
+    "R-SFT-EVAC-04": 6144,
+    "R-SFT-EVAC-05": 6144,
+    "R-SFT-EVAC-06": 6144,
+    "R-SFT-EVAC-07": 6144,
+    "R-SFT-EVAC-08": 6144,
+    "全工况无源校核": 2304,
+    "车流与人流隔离": 768,
+    "进水工况自封校核": 768
+  },
+  "负注入断言": "9/9 CAUGHT",
+  "边界": "档位化工程近似，用于判定逻辑可复现性验证；不含可制造参数，不作为设计与验收依据。"
+}
